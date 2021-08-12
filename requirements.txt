@@ -1,0 +1,6 @@
+robotframework
+robotframework-requests
+robotframework-jsonlibrary
+robotframework-debuglibrary
+urllib3
+requests
